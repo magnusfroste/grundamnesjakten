@@ -4,7 +4,7 @@
 - **Kort beskrivning (max 500):** Frågan gäller ett grundämne: först symbol till namn,
   sedan namn till symbol, sedan egenskaper som familj, grupp, skalelektroner och jon.
   Fyra brickor, en omgång, inga tider. Kemi åk 7–9.
-- **URL:** https://grundamnesjakten.shipholm.dev (katalogens adress: https://grundamnesjakten.skolappar.com)
+- **URL:** https://grundamnesjakten.shipholm.dev (katalogens adress: https://grundamnesjakten.skolappar.org)
 - **Ämne / årskurs / typ / enhet:** STEM / 7–9 / Öva / Alla enheter
 - **Lgr22:** KE.7-9.1.1 – ”Grundämnen, molekyl- och jonföreningar samt hur ämnen omvandlas
   genom kemiska reaktioner. Atomer, elektroner och kärnpartiklar.”
